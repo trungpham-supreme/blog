@@ -1,5 +1,10 @@
-# adm-api
+# BLOG
 
+## Installation
+
+```
+$ npm i
+```
 ## Run server
 
 ```shell
